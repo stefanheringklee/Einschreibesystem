@@ -10,7 +10,6 @@ namespace Core\EntityBundle\Repository;
 
 
 use Doctrine\ORM\EntityRepository;
-use Doctrine\ORM\Query\Expr\Join;
 use Doctrine\ORM\Query;
 
 class WorkshopParticipantsRepository extends EntityRepository
